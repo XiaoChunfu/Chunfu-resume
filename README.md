@@ -3,7 +3,8 @@
 - 联系电话（phone number)：19946255960
 - 联系邮箱（e-mail)：xiaochunfu528@163.com
 
-''' import Personal infor
+''' 
+    import Personal infor
     import Awards
     import Projects
 '''
