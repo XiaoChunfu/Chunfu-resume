@@ -7,7 +7,7 @@
 
 ---------------------------------------------------
 
-## ** 01 个人信息(Personal infor)**：
+## **01 个人信息(Personal infor)**：
 + 姓名(name)：肖淳夫(xiaochunfu)
 + 性别(gender)：男(male)
 + 本科大学(university)/专业(major)：同济大学/生物技术
