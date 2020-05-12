@@ -1,14 +1,19 @@
-# Welcome to 肖淳夫 Page
+# Welcome to 肖淳夫 Page:smile:
 
 - 联系电话（phone number)：19946255960
 - 联系邮箱（e-mail)：xiaochunfu528@163.com
 
+''' import Personal infor
+    import Awards
+    import Projects
+'''
+
 ## 个人信息(Personal infor)：
-- 姓名(name)：肖淳夫(xiaochunfu)
-- 性别(gender)：男(male)
-- 本科大学(university)/专业(major)：同济大学/生物技术
-- 通讯地址(address)：上海市杨浦区四平路1239号同济大学生命科学与技术学院   
-- Github：https://github.com/XiaoChunfu
+### 姓名(name)：肖淳夫(xiaochunfu)
+### 性别(gender)：男(male)
+### 本科大学(university)/专业(major)：同济大学/生物技术
+### 通讯地址(address)：上海市杨浦区四平路1239号同济大学生命科学与技术学院   
+### Github：https://github.com/XiaoChunfu
 
 ## 获奖经历(Awards)：
 - 2017-2018学年同济大学本科优秀学生奖学金一等奖                                                              
